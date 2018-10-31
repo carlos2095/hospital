@@ -1,4 +1,5 @@
 <?php 
+// Comentario de prueba
 	session_start();
 	include_once "modulos/php_conexion.php";
 	include_once "modulos/funciones.php";
